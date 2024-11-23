@@ -1,4 +1,4 @@
-* [Download](https://bit.ly/3CEx9gK)
+* [Download](https://bit.ly/3Zl3d2e)
 
 ### STATUS : WORK
  ```sh-session
